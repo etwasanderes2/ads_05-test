@@ -12,3 +12,5 @@ The n-th line contains the minimal distance from Airport 0 to Airport n.
 
 Feel free to add more tests if you are reasonably sure that they'll work.
 If the solution files are incorrect, please tell me / fix them yourself.
+
+I stole some code from the last test
