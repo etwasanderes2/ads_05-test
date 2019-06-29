@@ -11,3 +11,4 @@ The n-th line contains the minimal distance from Airport 0 to Airport n.
 (all indices start at 0)
 
 Feel free to add more tests if you are reasonably sure that they'll work.
+If the solution files are incorrect, please tell me / fix them yourself.
